@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "8b5bbc62da11fae9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a4772ca7ea39e50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78b3a9415f577b50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seaside/6 - Main Notes/Bhaga and Partners.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bhaga and Partners"
+            }
+          },
+          {
+            "id": "fd3b8516f965eec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seaside/6 - Main Notes/Halodesk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Halodesk"
+            }
+          },
+          {
+            "id": "8198014d4c60a9f3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
+            "id": "243a2dbd98fe7c19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seaside/6 - Main Notes/Web Builder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Web Builder"
+            }
+          },
+          {
+            "id": "150ea1746882994e",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled 1.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "a988ca52d7b67feb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
+            "id": "cd42b06744a9a1b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seaside/2 - Source Material/Videos/Parabolic SAR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parabolic SAR"
+            }
+          },
+          {
+            "id": "43fe701e6223c5b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seaside/6 - Main Notes/WA Integration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WA Integration"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73aa970694d2c0d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "402104ca749b7d4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8426e963b7fd9ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9319a4454034ba58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "secret",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7bf7c550ca7b01ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c13dd9c2e7aa858e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ac9adbaff1fb6d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cdf6f836f5f317e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Seaside/2 - Source Material/Videos/Market Research.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Market Research"
+            }
+          },
+          {
+            "id": "869286a5a533f15d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Seaside/2 - Source Material/Videos/Market Research.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Market Research"
+            }
+          },
+          {
+            "id": "47499df71a300811",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "00d1e08efd9d64f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Seaside/2 - Source Material/Videos/Market Research.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Market Research"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a8426e963b7fd9ee",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled 1.base",
+    "Seaside/6 - Main Notes/Halodesk.md",
+    "Seaside/6 - Main Notes/Web Builder.md",
+    "Seaside/6 - Main Notes/Financial Statement.md",
+    "Pasted image 20250327145713.png",
+    "Pasted image 20250327143652.png",
+    "Pasted image 20250327143621.png",
+    "Pasted image 20250327143526.png",
+    "Pasted image 20250327143430.png",
+    "Pasted image 20250327142403.png",
+    "Pasted image 20250327142301.png",
+    "Pasted image 20250327142235.png",
+    "Pasted image 20250327142232.png",
+    "Pasted image 20250327141219.png",
+    "Seaside/6 - Main Notes/Notebook LLM.md",
+    "Seaside/6 - Main Notes/AI.md",
+    "Seaside/6 - Main Notes/AI Agent.md",
+    "Seaside/6 - Main Notes/WA Integration.md",
+    "Seaside/6 - Main Notes/Monetary Policy.md",
+    "Seaside/6 - Main Notes/Bhaga and Partners.md",
+    "Seaside/2 - Source Material/Videos/Moving Average.md",
+    "Seaside/6 - Main Notes/Web Penting.md",
+    "Seaside/6 - Main Notes/Aromatherapy roller ball set.md",
+    "Seaside/2 - Source Material/Videos/Market Research.md",
+    "desktop.ini",
+    "Seaside/2 - Source Material/Videos/Parabolic SAR.md",
+    "Seaside/2 - Source Material/Videos/MACD.md",
+    "Seaside/6 - Main Notes/Overnight Rates.md",
+    "Seaside/2 - Source Material/Videos/Ranges.md",
+    "Seaside/6 - Main Notes/Higher Low and Higher High.md",
+    "Seaside/2 - Source Material/Videos/How to Read Candlestick.md",
+    "Seaside/2 - Source Material/Videos/Support & Resistence.md",
+    "Seaside/2 - Source Material/Videos/Chart Time Frames Cryptocurrency.md",
+    "Seaside/2 - Source Material/Videos/Trend.md",
+    "Seaside/2 - Source Material/Videos/Channel.md",
+    "Seaside/6 - Main Notes/Sideways.md",
+    "Seaside/6 - Main Notes/Psychology of Money by Morgan Housel.md"
+  ]
+}

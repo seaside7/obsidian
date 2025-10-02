@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "f6458bb426dc853c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e6b2b34caeac2cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92d279f4cac1e9db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/Videos/How to Read Candlestick.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to Read Candlestick"
+            }
+          },
+          {
+            "id": "75afcc709d65c1b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/Videos/Moving Average.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Moving Average"
+            }
+          },
+          {
+            "id": "81ff6a8e0a2b3298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Overnight Rates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overnight Rates"
+            }
+          },
+          {
+            "id": "0fc284230690c3cc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
+          },
+          {
+            "id": "f88253d002edb5e9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5d4da51b3d833d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d33802801534e54d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15346576fe348911",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "72743eb571b72438",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a8ade01ee717d48e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8cf4dd6163163fcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "642893e9e131f9fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "845239517cecf546",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 - Source Material/Videos/How to Read Candlestick.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for How to Read Candlestick"
+            }
+          },
+          {
+            "id": "4534aa9354042767",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 - Source Material/Videos/How to Read Candlestick.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from How to Read Candlestick"
+            }
+          },
+          {
+            "id": "3c13e91270178b22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d3f02eb36bd00c1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 - Source Material/Videos/How to Read Candlestick.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of How to Read Candlestick"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f88253d002edb5e9",
+  "lastOpenFiles": [
+    "2 - Source Material/Videos/Fibonacci Retracement.md",
+    "Pasted image 20240830164615.png",
+    "6 - Main Notes/stock.md",
+    "Pasted image 20240830164542.png",
+    "2 - Source Material/Videos/Chart Time Frames Cryptocurrency.md",
+    "2 - Source Material/Videos/How to Read Candlestick.md",
+    "2 - Source Material/Videos/Parabolic SAR.md",
+    "6 - Main Notes/Web Penting.md",
+    "2 - Source Material/Videos/Trend.md",
+    "6 - Main Notes/Monetary Policy.md",
+    "6 - Main Notes/Overnight Rates.md",
+    "2 - Source Material/Videos/Moving Average.md",
+    "2 - Source Material/Videos/MACD.md",
+    "6 - Main Notes/Sideways.md",
+    "6 - Main Notes/Psychology of Money by Morgan Housel.md",
+    "2 - Source Material/Videos/Channel.md",
+    "2 - Source Material/Videos/Breakout.md",
+    "2 - Source Material/Videos/Simple Crypto Trading.md",
+    "Pasted image 20240717130300.png",
+    "2 - Source Material/Videos/Ranges.md",
+    "Pasted image 20240710155653.png",
+    "Pasted image 20240710155345.png",
+    "Pasted image 20240710155125.png",
+    "Pasted image 20240710155045.png",
+    "Pasted image 20240710154804.png",
+    "Pasted image 20240710153011.png",
+    "Pasted image 20240710150226.png",
+    "2 - Source Material/Videos/Indicator.md",
+    "2 - Source Material/Videos/Support & Resistence.md",
+    "6 - Main Notes/Higher Low and Higher High.md",
+    "5 - Templates/Full Note.md",
+    "6 - Main Notes",
+    "5 - Templates",
+    "4 - Indexes",
+    "3 - Tags",
+    "2 - Source Material/Other",
+    "2 - Source Material/Videos",
+    "2 - Source Material/Books",
+    "2 - Source Material/Articles",
+    "2 - Source Material",
+    "1 - Rough Notes",
+    "Welcome.md"
+  ]
+}
