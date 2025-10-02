@@ -76,6 +76,20 @@
             }
           },
           {
+            "id": "f6b0d273a8b7e262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seaside/6 - Main Notes/Halodesk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Halodesk"
+            }
+          },
+          {
             "id": "a988ca52d7b67feb",
             "type": "leaf",
             "state": {
@@ -116,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -259,13 +273,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "150ea1746882994e",
+  "active": "f6b0d273a8b7e262",
   "lastOpenFiles": [
     "Seaside/6 - Main Notes/Web Builder.md",
+    "Seaside/6 - Main Notes/WA Integration.md",
+    "Seaside/6 - Main Notes/Halodesk.md",
     "Untitled 1.base",
     "New Text Document.txt",
     "Untitled.base",
-    "Seaside/6 - Main Notes/Halodesk.md",
     "Seaside/6 - Main Notes/Financial Statement.md",
     "Pasted image 20250327145713.png",
     "Pasted image 20250327143652.png",
@@ -280,7 +295,6 @@
     "Seaside/6 - Main Notes/Notebook LLM.md",
     "Seaside/6 - Main Notes/AI.md",
     "Seaside/6 - Main Notes/AI Agent.md",
-    "Seaside/6 - Main Notes/WA Integration.md",
     "Seaside/6 - Main Notes/Monetary Policy.md",
     "Seaside/6 - Main Notes/Bhaga and Partners.md",
     "Seaside/2 - Source Material/Videos/Moving Average.md",
