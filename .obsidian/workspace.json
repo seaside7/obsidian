@@ -53,26 +53,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seaside/6 - Main Notes/Web Builder.md",
+                "file": "Seaside/6 - Main Notes/Eria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Builder"
+              "title": "Eria"
             }
           },
           {
-            "id": "f6b0d273a8b7e262",
+            "id": "c58d6015ec49ecfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seaside/6 - Main Notes/WA Integration.md",
+                "file": "Juara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WA Integration"
+              "title": "Juara"
             }
           },
           {
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "eria",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,8 +169,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -260,46 +259,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9319a4454034ba58",
+  "active": "243a2dbd98fe7c19",
   "lastOpenFiles": [
-    "Seaside/6 - Main Notes/Web Builder.md",
-    "Seaside/6 - Main Notes/WA Integration.md",
-    "Seaside/6 - Main Notes/Halodesk.md",
+    "Juara.md",
+    "Pasted image 20251007133028.png",
+    "Seaside/6 - Main Notes/Eria.md",
+    "Seaside/6 - Main Notes/WWF Data HUB.md",
+    "Pasted image 20251006161547.png",
+    "Pasted image 20251006161014.png",
+    "Pasted image 20251006160912.png",
+    "Pasted image 20251006160853.png",
+    "Pasted image 20251006144244.png",
+    "Pasted image 20251006143844.png",
+    "Pasted image 20251006143834.png",
+    "Pasted image 20251006143734.png",
+    "Seaside/6 - Main Notes/Aster vs Hyperliquid.md",
+    "Pasted image 20251004213718.png",
     "Untitled 1.base",
-    "New Text Document.txt",
     "Untitled.base",
-    "Seaside/6 - Main Notes/Financial Statement.md",
-    "Pasted image 20250327145713.png",
-    "Pasted image 20250327143652.png",
-    "Pasted image 20250327143621.png",
-    "Pasted image 20250327143526.png",
-    "Pasted image 20250327143430.png",
-    "Pasted image 20250327142403.png",
-    "Pasted image 20250327142301.png",
-    "Pasted image 20250327142235.png",
-    "Pasted image 20250327142232.png",
-    "Pasted image 20250327141219.png",
-    "Seaside/6 - Main Notes/Notebook LLM.md",
-    "Seaside/6 - Main Notes/AI.md",
-    "Seaside/6 - Main Notes/AI Agent.md",
+    "Seaside/6 - Main Notes/Untitled.md",
+    "Seaside/2 - Source Material/Videos/Breakout.md",
     "Seaside/6 - Main Notes/Monetary Policy.md",
+    "Seaside/6 - Main Notes/Overnight Rates.md",
+    "Seaside/6 - Main Notes/Sideways.md",
+    "Seaside/6 - Main Notes/Psychology of Money by Morgan Housel.md",
+    "Seaside/6 - Main Notes/stock.md",
+    "Seaside/6 - Main Notes/Web Penting.md",
+    "trading.md",
+    "Seaside/6 - Main Notes/WA Integration.md",
+    "Seaside/5 - Templates/Full Note.md",
+    "Seaside/6 - Main Notes/AI Agent.md",
+    "Seaside/6 - Main Notes/AI.md",
+    "Seaside/6 - Main Notes/Web Builder.md",
+    "Seaside/6 - Main Notes/Halodesk.md",
+    "New Text Document.txt",
+    "Seaside/6 - Main Notes/Financial Statement.md",
+    "Seaside/6 - Main Notes/Notebook LLM.md",
     "Seaside/6 - Main Notes/Bhaga and Partners.md",
     "Seaside/2 - Source Material/Videos/Moving Average.md",
-    "Seaside/6 - Main Notes/Web Penting.md",
     "Seaside/6 - Main Notes/Aromatherapy roller ball set.md",
     "Seaside/2 - Source Material/Videos/Market Research.md",
-    "desktop.ini",
-    "Seaside/2 - Source Material/Videos/Parabolic SAR.md",
-    "Seaside/2 - Source Material/Videos/MACD.md",
-    "Seaside/6 - Main Notes/Overnight Rates.md",
-    "Seaside/2 - Source Material/Videos/Ranges.md",
-    "Seaside/6 - Main Notes/Higher Low and Higher High.md",
-    "Seaside/2 - Source Material/Videos/How to Read Candlestick.md",
-    "Seaside/2 - Source Material/Videos/Support & Resistence.md",
-    "Seaside/2 - Source Material/Videos/Chart Time Frames Cryptocurrency.md",
-    "Seaside/2 - Source Material/Videos/Trend.md",
-    "Seaside/2 - Source Material/Videos/Channel.md",
-    "Seaside/6 - Main Notes/Sideways.md",
-    "Seaside/6 - Main Notes/Psychology of Money by Morgan Housel.md"
+    "desktop.ini"
   ]
 }
