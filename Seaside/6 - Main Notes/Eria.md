@@ -2,6 +2,8 @@
 php artisan serve --host=127.0.0.1 --port=8080
 
  http://localhost:8080/backend-login for admin
+admin_eria
+6bTXLs9G9a#y
 
 home page
 
@@ -27,8 +29,7 @@ harusnya
 set routes
 
 
-admin_eria
-6bTXLs9G9a#y
+
 
 
 ![[Pasted image 20251006143734.png]]
@@ -92,3 +93,14 @@ We use {!! ... !!} here because you’re intentionally storing rich H
 
 
 staging link disni: https://rkcmpd-eria.staging.catalyze.id/our-projects
+
+
+https://datahub.staging.catalyze.id/?bypass=true
+
+
+
+funding explorer
+
+![[Pasted image 20251016194110.png]]
+
+![[Pasted image 20251016194225.png]]
