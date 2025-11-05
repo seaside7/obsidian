@@ -27,3 +27,7 @@ windows
 ls ~/.ssh
 
 cat C:\Users\Seaside\.ssh\id_ed25519.pub
+
+
+
+curl -v "https://api-datahub-nonprod-api-dev.azurewebsites.net/v2/data-npo/cards?year=2025"
