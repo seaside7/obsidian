@@ -95,7 +95,7 @@ We use {!! ... !!} here because you’re intentionally storing rich H
 staging link disni: https://rkcmpd-eria.staging.catalyze.id/our-projects
 
 
-https://datahub.staging.catalyze.id/?bypass=true
+
 
 
 
@@ -104,3 +104,20 @@ funding explorer
 ![[Pasted image 20251016194110.png]]
 
 ![[Pasted image 20251016194225.png]]
+
+
+eria itu paten logonya
+
+
+sliding banner -> carousel
+
+
+feature collection
+
+![[Pasted image 20251022143121.png]]
+
+
+
+tabbed pages: pages with sidebar
+![[Pasted image 20251030112636.png]]
+

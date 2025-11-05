@@ -500,3 +500,101 @@ fundiong explorer pake pages aja
 
 GET /api/pages?filters[slug][$eq]=knowledge-centre
 GET /api/pages?filters[slug][$eq]=resources
+
+
+Invoke-RestMethod -Uri "http://localhost:3048/api/funding-explorer" -Method GET | ConvertTo-Json -Depth 4
+
+get funding explorer page with all filter and fund
+
+
+Invoke-RestMethod -Uri "http://localhost:3048/api/funds/jkddxrgatf1nh5oi5fsnge25" -Method GET | ConvertTo-Json -Depth 4
+
+get specific funf
+
+
+$uri = "http://localhost:3048/api/funding-explorer"; $body = @{ 'instruments[]' = @('s7k9g4sf0ljdk01wuoyr28kq', 'w3n8eaqf5lmpp2it7b6p5er2'); 'regions[]' = 'qa0m38t02rdt8641e0kes23o'; 'projectTypes[]' = 't0v7lnztqwrman3zjoi2kua3'; 'sortBy' = 'alphabetical'; 'pagination[page]' = 1; 'pagination[pageSize]' = 10 }; Invoke-RestMethod -Uri $uri -Method GET -Body $body | ConvertTo-Json -Depth 3
+
+http://localhost:3048/api/funds/compare?fund1=jkddxrgatf1nh5oi5fsnge25&fund2=fwyy2e8w6p854xlfpvsmp2zk&fields=fundType,fundSubtype,issuer,fundingRange,instruments,regions
+
+
+
+funding size content remove
+
+geography itu ganti jd Region Description
+
+example f5
+
+about the issuer content remove
+
+ganti env staging server
+
+# 1. SSH into staging
+ssh user@staging.catalyze.id
+
+# 2. Navigate to project
+cd /projects/abnj-be
+
+# 3. Edit .env file
+nano .env
+# Change: NODE_ENV=staging → NODE_ENV=development
+
+# 4. Restart container
+docker compose restart staging
+
+# 5. Go to admin panel and configure Edit View
+# https://abnj-be.staging.catalyze.id/admin
+# Settings → Content-Type Builder → Fund → Configure the view → Edit View
+
+# 6. Change back .env
+nano .env
+# Change: NODE_ENV=development → NODE_ENV=staging
+
+# 7. Restart again
+docker compose restart staging
+
+
+
+128.199.157.158
+
+[10:49 AM](https://chat.catalyze.id/catalyze/pl/c1b1tkbfhjbbbefshh7nio6q1r)
+
+port : 22 user : root pass : ssh_key
+
+old
+159.89.192.157
+
+
+
+exclude category tools, 
+
+tp di resources harus ada tools
+
+
+fundint explainer
+
+
+## Correct URLs for Funding Explorer:
+
+### Sort Funds by Title:
+
+A-Z (Ascending):
+
+https://abnj-be.staging.catalyze.id/api/funding-explorer?sortBy=a-z&pagination[page]=1&pagination[pageSize]=9
+
+or
+
+https://abnj-be.staging.catalyze.id/api/funding-explorer?sortBy=alphabetical&pagination[page]=1&pagination[pageSize]=9
+
+Z-A (Descending):
+
+https://abnj-be.staging.catalyze.id/api/funding-explorer?sortBy=z-a&pagination[page]=1&pagination[pageSize]=9
+
+### Sort Funds by Date:
+
+Newest First:
+
+https://abnj-be.staging.catalyze.id/api/funding-explorer?sortBy=latest&pagination[page]=1&pagination[pageSize]=9
+
+Oldest First:
+
+https://abnj-be.staging.catalyze.id/api/funding-explorer?sortBy=a-z&pagination[page]=1&pagination[pageSize]=9
