@@ -6,12 +6,27 @@ https://datahub.staging.catalyze.id/
 
 https://datahub.staging.catalyze.id/?bypass=true
 
+cms:
+admin@catalyze.id 
+secret1234
+
+mongodb atlas:
+said
+Seaside11
+
+mongodump --uri "mongodb+srv://said:Seaside11@clusterazure-prod.el3npp.mongodb.net/datahub-nonprod" --archive="C:\Temp\datahub-nonprod.archive" --gzip
+
+(Invoke-WebRequest -Uri "https://api.ipify.org").Content
+
+ip address
+
+
+
 db: mongodb
 
 staging is replicate production, 
 
 we develop 
-
 
 build error
 Issue  
@@ -24,7 +39,7 @@ Fix
 - Exposed NEXT_PUBLIC_API_URL from environment only; removed the hardcoded staging fallback.
 - Centralized URL resolution in getApiBaseUrl() so all fetchers use the same env-based base URL and log clearly if it’s missing. (this code is in src/service/api.js
 
-![:+1:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-small/1f44d.png)1
+
 
 
 ![[Pasted image 20251013190552.png]]
@@ -161,3 +176,35 @@ This created a mismatch where:
 ---
 
 Lesson: When you have two similar ID fields (_id and item_id), always use the stable, intentional one (item_id) for references, not the auto-generated MongoDB array element _id! 🎓
+
+
+mongodb
+said_admin
+hUsabBfpdIp7P3sf
+
+
+
+resources sm ky visual libraries, tp bedanya dia pny glossary, resources ga pnya , data owner etc, bikin dibikin di tag groups
+
+
+
+
+![[Pasted image 20251111193651.png]]
+
+
+ketika masuk page detail api buat ngitung view blm ada
+
+
+featured resorces ga berhasil ke save di module training, ga ngesave atau ga ngereturn, padahal dkirimnyha sama ky yg dipages
+
+
+
+GET /partials/resources?route=resources&resourceType=POLICIES&page=1&limit=6&sort_field=&sort_direction=-1
+
+GET /partials/filters?resourceType=POLICIES
+
+GET /api/proxy?path=v2/resource/{slug}
+
+
+
+
