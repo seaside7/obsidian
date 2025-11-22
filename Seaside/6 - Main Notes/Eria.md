@@ -5,30 +5,6 @@ php artisan serve --host=127.0.0.1 --port=8080
 admin_eria
 6bTXLs9G9a#y
 
-home page
-
-carousel terlalu development banget, harusnya slideshow banner
-
-
-![[Pasted image 20251004212302.png]]
-
-title subtitle description button (redirect)
-
-
-
-asean 3 harusnya ky gni
-![[Pasted image 20251004212552.png]]
-
-![[Pasted image 20251004213653.png]]
-
-url messed
-
-harusnya
-
-![[Pasted image 20251004213718.png]]
-set routes
-
-
 
 
 
@@ -121,3 +97,11 @@ feature collection
 tabbed pages: pages with sidebar
 ![[Pasted image 20251030112636.png]]
 
+
+
+1. Partner intro dan support intro itu ada di parent partners
+2. carousel banner type didlm diganti main / dynamic, baca notenya
+3. feature collection diganti our features, jgn lupa hide catalogue intro psp intro
+4. featured project descriptinon menjadi subtitle
+5. sistes site, cek our partner site section di staging
+6. di partners, title ganti jd organization name,  url ganti website, urutannya cek di docs, log image diganti jd logo uploader

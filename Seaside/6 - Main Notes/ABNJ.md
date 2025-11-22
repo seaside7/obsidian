@@ -6,6 +6,12 @@ abnj-be.staging.catalyze.id/admin/auth/login
 token:
 55b7b0ff9d4521f13e7167a86d6b0ac539ef1c40466bfac2749da96fffc4996bc5f1bb884468270f875d2567a907e165812803e7aba951deea2506d7cc5eb3cedc0e3052c4c00967522a4106e0a5d42bf948b959ae0a5c92ca8417002885894960fcccd11e33dc85f287cea54e03f4dd4228493e4a88f96743fac1854d96f2b6
 
+𝑺𝒆𝒙𝒕𝒂𝒑𝒆-𝑨𝒍𝒕𝒆𝒓-𝑺𝒌𝒂𝒏𝒅𝒂𝒍-𝑯𝒊𝒋𝒂𝒃-𝑳𝒆𝒏𝒈𝒌𝒂𝒑-𝑳𝒂𝒏𝒄𝒂𝒓-𝑺𝒕𝒓𝒆𝒂𝒎𝒊𝒏𝒈-𝑫𝒂𝒏-𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅-19-11.1587087/page-37#post-1913429356
+
+arekmoal
+Takanome88
+
+
 user : catalyze pass : catalyze
 
 strapi login
@@ -15,7 +21,11 @@ email : analytics@catalyzecommunications.com
 password : WkyLcptqclhFn6v
 ```
 
-
+https://vide.ws/e/arrk8jfh9l66?path=e&id=arrk8jfh9l66
+https://vide.ws/e/h49hqpn0b5ta?path=e&id=h49hqpn0b5ta
+https://vide.ws/e/m1e07a9ukwbb?path=e&id=m1e07a9ukwbb
+https://vide.ws/e/bl8nymdi97sg?path=e&id=bl8nymdi97sg
+https://vide.ws/e/hi1frwgfu7vy
 bikin branch baru 
 pull ke development
 pull ke  staging
@@ -598,3 +608,17 @@ https://abnj-be.staging.catalyze.id/api/funding-explorer?sortBy=latest&paginatio
 Oldest First:
 
 https://abnj-be.staging.catalyze.id/api/funding-explorer?sortBy=a-z&pagination[page]=1&pagination[pageSize]=9
+
+
+telemetry  grafana
+
+Seaside11
+
+
+![[Pasted image 20251113142749.png]]
+
+
+![[Pasted image 20251114155919.png]]
+
+
+Invoke-RestMethod -Uri "https://abnj-be.staging.catalyze.id/api/global" -Method GET | ConvertTo-Json -Depth 10

@@ -24,3 +24,6 @@
 ```bash
 aws s3 cp halodesk s3://halodesk/ --recursive
 ```
+
+
+JL.	PERCETAKAN	NEGARA	NO.	C230,	Kel.	Rawasari,	Kec.	Cempaka Putih,	Kota	Adm.	Jakarta	Pusat,	Provinsi	DKI	Jakarta, Kode	Pos:	10570
