@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seaside/6 - Main Notes/WWF Data HUB.md",
+                "file": "Seaside/6 - Main Notes/ABNJ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WWF Data HUB"
+              "title": "ABNJ"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mongodump --uri",
+                "query": "abnj",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,10 +208,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9319a4454034ba58",
+  "active": "e075e97945b5e16a",
   "lastOpenFiles": [
-    "Seaside/6 - Main Notes/Eria.md",
     "Seaside/6 - Main Notes/WWF Data HUB.md",
+    "Seaside/6 - Main Notes/Eria.md",
     "Seaside/6 - Main Notes/Crypto.md",
     "Seaside/6 - Main Notes/ABNJ.md",
     "Streamio.md",
