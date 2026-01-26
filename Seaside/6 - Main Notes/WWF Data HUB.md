@@ -6,9 +6,24 @@ https://datahub.staging.catalyze.id/
 
 https://datahub.staging.catalyze.id/?bypass=true
 
+threads/new-update-yang-doyan-mahasiswi-silahkan-masuk-update-selalu.1565009/page-89#post-1913683722
+
 cms:
 admin@catalyze.id 
 secret1234
+
+(Invoke-WebRequest -Uri "https://api.ipify.org").Content  
+Test-NetConnection 172.205.217.96 -Port 27017 
+ip pc wwf-prod: 180.252.92.213
+username: said_admin
+password: Seaside11
+
+
+set env:
+basedurl: https://maps.panda.org/portal/
+tilelayer: [https://tiles.arcgis.com/tiles/RS8mqPfEEjgYh6uG/arcgis/rest/services/Robinson_basemap/MapServer/0](https://tiles.arcgis.com/tiles/RS8mqPfEEjgYh6uG/arcgis/rest/services/Robinson_basemap/MapServer/0)
+webmapid: 9ceb58b818ff4405a2732d264cf9262b
+
 
 mongodb atlas:
 said
@@ -208,3 +223,17 @@ GET /api/proxy?path=v2/resource/{slug}
 
 
 
+visual libraris related files, wktu diclick ga muncul, done
+
+
+simple power bi test, 
+
+
+shortcut pdf kaya related file
+
+
+
+kl diclick yg bawah2 semuanya ke click
+
+
+di policies wktu save tag groups ga bsa
