@@ -20,6 +20,8 @@ git merge github/development
 
 kl mau push branch development di github tp dri branch staging
 
+git pull github development
+
 git push github staging:development
 
 
