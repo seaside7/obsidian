@@ -166,3 +166,22 @@ Throughout my career, I have frequently navigated difficult tradeoffs between sp
 I am motivated by opportunities where technology, data, and product strategy intersect to solve meaningful problems. I believe my experience building 0-to-1 products, scaling platforms, and leading multidisciplinary teams would allow me to contribute effectively to your organization.
 
 Thank you for your time and consideration. I would welcome the opportunity to discuss how my background aligns with your needs.
+
+
+In my role at Manuva, I initially received a salary alongside equity. However, as market conditions became more challenging and fundraising slowed, the company shifted its focus toward managing runway and asset restructuring. During this period, compensation was adjusted, and the company is currently in the process of selling its assets.
+
+## 🎯 Distribusion — _Technical Product Manager (API Integrations)_
+
+**(60–75 seconds, spoken, accurate to your experience)**
+
+> Hi Cuong, nice to meet you. I’m Said.  
+> I’m a product and technology leader with experience building and scaling platform systems, both for internal operations and external partner integrations.
+> 
+> In my most recent role at Manuva, I led product and technology for an internal distribution platform used by our distributors and sales teams. The system covered the full operational flow—from purchase orders created by distributors, to inventory and warehouse fulfillment, through to sell-out tracking, sales force activity, route planning, and performance dashboards.
+> 
+> In earlier roles at RedDoorz and Finantier, I worked extensively with external partners through APIs—integrating with OTAs and fintech clients—where I focused on gathering requirement from partners,  standardization, integration trade-offs, and maintaining stable contracts. Across all roles, my focus has been on building platform products that handle complexity behind the scenes while remaining dependable for users and partners.
+
+also when i was still as software engineer, As a Senior Software Engineer, I worked on integrating Moobidesk with third-party systems where clients already had their own platforms and wanted to connect them to Moobidesk’s chat or notification capabilities.
+
+
+Many clients already had existing systems, and my role involved helping integrate those systems with Moobidesk so events from their platforms—such as user actions or status changes—could trigger chat messages or notifications through Moobidesk. This required working with different data formats, authentication methods, and reliability constraints.

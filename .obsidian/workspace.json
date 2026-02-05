@@ -22,35 +22,35 @@
             }
           },
           {
-            "id": "8c6bc87f3596093d",
+            "id": "bc8c09681f4314f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seaside/6 - Main Notes/DuaLightning.md",
+                "file": "Seaside/6 - Main Notes/Interview Tokenminds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DuaLightning"
+              "title": "Interview Tokenminds"
             }
           },
           {
-            "id": "6dcb2c00fee25a8c",
+            "id": "02dfb757a3244504",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seaside/6 - Main Notes/DuaLightning.md",
+                "file": "Seaside/6 - Main Notes/Interview Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DuaLightning"
+              "title": "Interview Distribution"
             }
           },
           {
-            "id": "3fdc903ec6a2f75e",
+            "id": "2e95d1f42704e418",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,48 +61,6 @@
               },
               "icon": "lucide-file",
               "title": "Eria"
-            }
-          },
-          {
-            "id": "bc8c09681f4314f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seaside/6 - Main Notes/Mongodb.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mongodb"
-            }
-          },
-          {
-            "id": "c1384ac8cac8ad61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idcloudhost.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "idcloudhost"
-            }
-          },
-          {
-            "id": "2f9cd9e2a7b54afb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seaside/6 - Main Notes/117.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "117"
             }
           },
           {
@@ -120,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "eria",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +145,8 @@
               "title": "Git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seaside/6 - Main Notes/Mongodb.md",
+                "file": "Seaside/6 - Main Notes/Eria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mongodb"
+              "title": "Outgoing links from Eria"
             }
           },
           {
@@ -277,12 +236,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc8c09681f4314f2",
+  "active": "2e95d1f42704e418",
   "lastOpenFiles": [
-    "Seaside/6 - Main Notes/Interview Tokenminds.md",
-    "Seaside/6 - Main Notes/Cybyersecurity.md",
-    "Seaside/6 - Main Notes/Interview Distribution.md",
     "Interview.md",
+    "Seaside/6 - Main Notes/Interview Distribution.md",
+    "Seaside/6 - Main Notes/Interview Tokenminds.md",
+    "Seaside/6 - Main Notes/Mongodb.md",
+    "Seaside/6 - Main Notes/Cybyersecurity.md",
     "Seaside/6 - Main Notes/Eria.md",
     "Seaside/6 - Main Notes/DuaLightning.md",
     "Seaside/6 - Main Notes/117.md",
@@ -294,7 +254,6 @@
     "Seaside/6 - Main Notes/EQI.md",
     "Seaside/6 - Main Notes/ABNJ.md",
     "idcloudhost.md",
-    "Seaside/6 - Main Notes/Mongodb.md",
     "Seaside/6 - Main Notes/Monetary Policy.md",
     "Distrios.md",
     "Pasted image 20251203135124.png",
