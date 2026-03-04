@@ -250,4 +250,222 @@ If you want, next I can:
 - Help you prepare **questions to ask Cuong** (very important)
     
 
-Just tell me what you want to prepare next 👌
+
+Distribusion stands out to me as a true infrastructure platform. I’m drawn to products where APIs are the core business, not just an implementation detail. The challenges around large-scale integrations, data consistency, and reliability across global partners are very similar to platforms I’ve worked on before, just in a different domain. I’m excited by the opportunity to work on a system that directly enables global mobility at scale.
+
+
+Great — this is exactly the right thing to prepare for **Distribusion**.
+
+Below is a **realistic API-integration interview pack**, based on what **Technical Product Managers** are actually asked (not coding questions, but **system + judgment questions**).
+
+I’ll show you:
+
+1. What these questions **look like**
+    
+2. What interviewers are **really testing**
+    
+3. **Model answers** you can adapt (not memorize)
+    
+
+---
+
+# 🧩 What API-integration interviews are like (important)
+
+They are **NOT** testing:
+
+- Syntax
+    
+- Coding
+    
+- Framework knowledge
+    
+
+They **ARE** testing:
+
+- System thinking
+    
+- Trade-offs
+    
+- Scalability
+    
+- Partner empathy
+    
+- Risk management
+    
+
+Think **“platform owner mindset.”**
+
+---
+
+# 1️⃣ Core API Integration Questions (VERY COMMON)
+
+### ❓ “How do you design an API that many partners integrate with?”
+
+**What they want to hear:**
+
+- Consistency
+    
+- Stability
+    
+- Backward compatibility
+    
+
+**Strong answer:**
+
+> I start by defining a clear core contract that covers the most common use cases. I prioritize stability and backward compatibility, and treat the API as a long-term product. Partner-specific needs are handled through configuration or extensions rather than changing the core behavior.
+
+---
+
+### ❓ “How do you handle partners with very different capabilities?”
+
+**What they’re testing:** standardization vs flexibility
+
+**Strong answer:**
+
+> I try to normalize as much as possible internally, so partners interact with a consistent interface. When partners have limitations, we adapt internally through adapters or transformation layers instead of exposing complexity in the API.
+
+---
+
+# 2️⃣ Versioning & Breaking Changes (they LOVE this)
+
+### ❓ “How do you manage API versioning?”
+
+**Good TPM answer:**
+
+> I treat versioning as a communication problem as much as a technical one. We minimize breaking changes, introduce new versions only when necessary, provide clear deprecation timelines, and support parallel versions long enough for partners to migrate safely.
+
+🚩 Red flag if someone says “just release v2 and move on”.
+
+---
+
+### ❓ “What do you do when a breaking change is unavoidable?”
+
+**Strong answer:**
+
+> I make the trade-off explicit, document the impact clearly, communicate early, and work with partners on migration plans. The goal is to protect trust, even if change is necessary.
+
+---
+
+# 3️⃣ Error Handling & Reliability (very relevant for Distribusion)
+
+### ❓ “How should APIs handle errors for external partners?”
+
+**What they want:**
+
+- Predictability
+    
+- Debuggability
+    
+
+**Strong answer:**
+
+> Errors should be consistent, well-structured, and actionable. Partners should be able to understand whether an issue is temporary, permanent, or due to invalid input, without needing internal context.
+
+---
+
+### ❓ “What happens if one partner sends bad data?”
+
+**Strong answer:**
+
+> The platform should be resilient by isolating failures. One partner’s issues should not impact others, and validation should happen as early as possible to prevent bad data from propagating.
+
+---
+
+# 4️⃣ Rate Limits, Performance & Scale
+
+### ❓ “How do you think about rate limiting?”
+
+**Good answer:**
+
+> Rate limits protect platform stability. I see them as part of the product contract, not just a technical safeguard. Limits should be documented, predictable, and aligned with partner usage patterns.
+
+---
+
+### ❓ “How do you balance performance vs data freshness?”
+
+**Strong answer:**
+
+> It depends on use cases. For search and availability, freshness matters more; for reporting, latency is acceptable. My role is to help make these trade-offs explicit so expectations are aligned.
+
+---
+
+# 5️⃣ Partner Requests & API Fragmentation (VERY IMPORTANT)
+
+### ❓ “A partner asks for custom behavior — what do you do?”
+
+**What they’re testing:** governance
+
+**Strong answer:**
+
+> I evaluate whether the request represents a common future need or a one-off. If it’s common, it belongs in the roadmap. If not, I look for extension or configuration options rather than altering the core API, to avoid fragmentation.
+
+---
+
+### ❓ “How do you say no to partners?”
+
+**Excellent answer:**
+
+> By explaining trade-offs clearly and offering alternatives. Saying no is easier when partners understand the long-term cost of special-case behavior.
+
+---
+
+# 6️⃣ Incident & Failure Scenarios (very realistic)
+
+### ❓ “An API outage impacts multiple partners — what do you do?”
+
+**Strong answer structure:**
+
+1. Stabilize the system
+    
+2. Communicate clearly
+    
+3. Diagnose root cause
+    
+4. Prevent recurrence
+    
+
+**Example answer:**
+
+> First we stabilize and reduce impact, then communicate transparently with partners. After recovery, we conduct a post-incident review to improve monitoring, resilience, or processes.
+
+---
+
+# 7️⃣ Data Normalization (VERY relevant to you)
+
+### ❓ “Different partners send different data formats — how do you handle this?”
+
+**Strong answer:**
+
+> We normalize data internally into a common model and avoid exposing partner-specific quirks externally. This keeps the API simple and scalable.
+
+---
+
+# 8️⃣ Interviewer’s REAL question behind all of this
+
+They are asking:
+
+> “Can we trust you to protect our platform while keeping partners successful?”
+
+Your background with:
+
+- RedDoorz OTAs
+    
+- Finantier fintech clients  
+    already proves this.
+    
+
+---
+
+# 🧠 3 One-liners to memorize (very useful)
+
+1️⃣
+
+> I treat APIs as long-lived products, not just technical interfaces.
+
+2️⃣
+
+> Standardization with controlled flexibility is key to scaling integrations.
+
+3️⃣
+
+> Most API problems are communication and governance problems, not technical ones.

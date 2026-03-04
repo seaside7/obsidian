@@ -1,4 +1,9 @@
 
+With over a decade of experience spanning product management, engineering leadership, and data-driven platforms across startups and large organizations, I bring a strong track record of delivering complex systems and scaling products in challenging environments.
+
+
+
+Most recently, I served as VP of Product and Technology at Manuva, where I led cross-functional product, engineering, design, and data teams to build and scale an integrated manufacturing and supply platform serving both B2B and B2R customers. Prior to that, I held senior product leadership roles at Finantier, RedDoorz, and Payfazz, where I owned product strategy, roadmap execution, and delivery for high-impact platforms in fintech and consumer technology.
 
 A Product Manager is accountable for product value and direction, while a Scrum Master is accountable for how effectively teams deliver that value.
 
@@ -215,6 +220,3 @@ You help translate:
     
 
 Without blaming either side.
-
-
-1 dlu van kwkwk, clientnya baru bsa bsk nih trfnya,  pasti ga akan mundur lg, ini puterannya jd slow bgt, mungkin gw mau kurangin aja limitnya biar ga berat
