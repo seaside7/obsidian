@@ -26,3 +26,11 @@ Check if the database and tables were created successfully:
 
 
 Invoke-WebRequest -Uri "http://localhost:3048/api/homepage/faq" -UseBasicParsing -Method HEAD
+
+
+
+docker exec -it mysql_ctz mysql -u root -proot -e "DROP DATABASE IF EXISTS ctz_eria_2; CREATE DATABASE ctz_eria_2;"
+
+docker cp "/path/to/eria-staging.sql" mysql_ctz:/tmp/eria-staging.sql
+
+docker exec -it mysql_ctz sh -c "mysql -u root -proot ctz_eria_2 < /tmp/eria-staging.sql"

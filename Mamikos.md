@@ -831,6 +831,109 @@ That sounds senior PM.
 
 ---
 
+In one city:
+
+- Traffic is stable
+    
+- Number of properties increasing
+    
+- Prime subscription penetration = 35%
+    
+- But Ads revenue is flat for 4 months
+    
+
+Question:
+
+👉 What could be happening?  
+👉 Where do you investigate first?  
+👉 What actions would you take?
+
+# Stronger Answer Structure
+
+## Step 1 — Revenue Formula
+
+Ads Revenue =  
+Number of paying owners × ARPU
+
+So I check:
+
+1️⃣ Is penetration growing?  
+2️⃣ Is ARPU dropping?  
+3️⃣ Is mix shifting from Prime to lower tier?
+
+---
+
+## Internal Factors You Should Add
+
+### 1. Prime Saturation
+
+35% is high.
+
+If too many Prime:
+
+- Scarcity lost
+    
+- Performance diluted
+    
+- Willingness to pay drops
+    
+
+---
+
+### 2. Cannibalization
+
+Are owners downgrading from Prime → Gold?
+
+Why?
+
+- ROI decreasing?
+    
+- Price too high?
+    
+
+---
+
+### 3. Pricing Ceiling
+
+Maybe price too low for high-demand city.
+
+Traffic stable but supply growing.  
+Demand per property decreasing.  
+Owners may not see value.
+
+---
+
+### 4. Inventory Dilution
+
+If supply increases but traffic flat:
+
+Impressions per property drop.  
+Prime less effective.  
+Upgrade motivation declines.
+
+This is big insight.
+
+---
+
+# 🌍 External Factors You Can Add
+
+✔ Competitor promo  
+✔ Competitor offering PPL model  
+✔ Market seasonality  
+✔ Regulatory changes  
+✔ Macro rental slowdown
+
+---
+
+# 🔥 How Strong Answer Should Sound
+
+Something like:
+
+> “Since revenue equals paying owners multiplied by ARPU, I would first check penetration rate, ARPU trend, and tier mix. With 35% Prime penetration, oversaturation could be diluting visibility and reducing ROI perception. If supply increases while traffic remains flat, impression share per listing declines, which may reduce upgrade motivation and lead to revenue stagnation.”
+
+That sounds SPM-level.
+
+
 ## 📦 Case 1
 
 ### “Ads revenue flat, but traffic growing 20%”
@@ -1437,3 +1540,198 @@ If supply increases but traffic flat:
 Impressions per property drop.  
 Prime less effective.  
 Upgrade motivation declines.
+
+
+
+# Pricing Strategy
+
+Very possible question:
+
+**“How would you decide the price of Gold Plus or Prime?”**
+
+They want to hear:
+
+- demand per city
+    
+- property competition
+    
+- expected lead value
+    
+
+Simple framework:
+
+Price should be **a fraction of expected revenue gain**.
+
+Example:
+
+If subscription generates **5 extra bookings** and each booking profit is **200k**,  
+value = **1M**.
+
+Subscription price could be **200–300k**.
+
+
+what is causal effect
+
+
+
+# Marketing Funnel
+
+Head of Marketing may ask:
+
+**“Where in the funnel would you improve conversion?”**
+
+Typical funnel:
+
+tenant search → property click → chat → booking
+
+or
+
+owner onboarding → paid upgrade
+
+You should say:
+
+> analyze drop-off in funnel and prioritize biggest leakage.
+
+
+# Demand vs Supply Balance
+
+Very common marketplace question:
+
+**“What happens if supply grows faster than demand?”**
+
+Answer:
+
+- ROI for owners drops
+    
+- competition increases
+    
+- monetization becomes harder
+    
+
+Solution:
+
+- stimulate demand
+    
+- manage premium inventory
+
+# Marketing Campaign ROI
+
+Head of Marketing may ask:
+
+**“How would you measure marketing effectiveness?”**
+
+Answer:
+
+- CAC
+    
+- conversion rate
+    
+- LTV/CAC ratio
+    
+- booking conversion
+
+# 7️⃣ CFO Favorite Question
+
+This one appears a lot:
+
+**“If you could improve only one metric to grow revenue, what would it be?”**
+
+Good answers usually:
+
+- paid adoption
+    
+- ARPU
+    
+- owner retention
+    
+
+But explain **why**.
+
+
+# 3 Questions You Should Prepare Very Well
+
+These are **very likely tomorrow**:
+
+1️⃣ **How would you increase monetization from property owners?**  
+2️⃣ **How do you measure ROI for owners?**  
+3️⃣ **How would you price the premium tiers?**
+
+---
+
+# One Smart Question You Can Ask Them
+
+Ask CFO:
+
+> “How do you currently think about balancing owner monetization with long-term marketplace health?”
+
+They will like that question.
+
+
+
+
+# The Core Principle of Marketplace Pricing
+
+When a supplier (property owner) pays for promotion/subscription, they only care about:
+
+> **Does this make me more money than it costs?**
+
+So the value of the product = **extra revenue generated for the owner**.
+
+This is called **incremental value**.
+
+# 2️⃣ Example Step by Step
+
+Assume an owner without Gold Plus gets:
+
+- 5 bookings per month
+    
+
+After buying Gold Plus they get:
+
+- **10 bookings per month**
+    
+
+So **incremental bookings = 5**
+
+
+# 3️⃣ Calculate Owner Profit
+
+If profit per booking = **200k**
+
+Extra profit:
+
+5 bookings × 200k = **1,000,000**
+
+So the **value created for the owner = 1M**.
+
+# 4️⃣ Why Price Must Be a Fraction
+
+If you charge the owner **1M subscription**, they gain nothing.
+
+They will think:
+
+> “Why should I pay if I don’t make extra profit?”
+
+So platforms normally price at **20–30% of the value created**.
+
+This leaves **clear ROI for the owner**.
+
+“I would estimate the incremental revenue the product generates for property owners and price the subscription as a fraction of that value to ensure strong ROI perception.”
+
+
+
+what does it mean by So we must isolate the **causal effect**.
+
+
+**Occupancy rate in one city is only 50%, while tenant traffic is increasing.**
+
+**What would you do to increase revenue?**
+“First I would segment by property tier, location, price range, and quality level to identify which inventory is underperforming. Then I would analyze the funnel from traffic → listing view → inquiry/chat → booking to see where conversion breaks. If traffic is rising but occupancy stays at 50%, that suggests either low booking conversion, poor listing relevance, weak response rate, or pricing mismatch. Based on the root cause, I would improve listing quality, response speed, and pricing guidance to increase bookings and revenue.”
+
+
+
+“Over the last four years, I’ve been building Manuva and leading product and execution in a startup environment. It has been a valuable journey where I gained end-to-end ownership experience. However, I’m now looking to operate in a more established environment where scale, structure, and long-term sustainability are already proven.
+
+What attracts me to Mamikos is that it’s a market leader with strong fundamentals, meaningful scale, and clear impact. Eleven years in proptech, millions of active users, and a mature platform show strong product-market fit. I’m excited by the opportunity to contribute to a business that is already at scale but still has room to optimize growth, operations, and user experience.
+
+Also, the opportunity to work closely with founders and leadership is something I value — I’ve always operated in high-ownership environments, and I believe I can contribute strategically while still being hands-on in execution.”

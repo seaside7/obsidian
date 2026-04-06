@@ -220,3 +220,32 @@ You help translate:
     
 
 Without blaming either side.
+
+
+[Core Tech Stack] Programming & Frameworks: TypeScript, Next.js (frontend), Nest.js (backend) Infrastructure & Cloud: AWS (EC2, RDS, S3, IAM, etc.), VPS Providers, Cloud service orchestration Database & ORM: PostgreSQL (on AWS RDS), Prisma Containerization & Deployment: Docker, Kubernetes (orchestration, scaling, monitoring) Expect both theoretical and practical questions, such as how you structured projects, solved real-world issues, and optimized system performance using this stack. [Technical Domains] Web2: Classic client-server architectures, REST APIs, CI/CD, DevOps best practices AI: Experience with ML/AI integrations, model deployment, data pipelines, AI-assisted features Web3: Smart contract development, blockchain integration, wallet systems, decentralized app (dApp) architectures You may be asked about cross-domain overlaps (e.g., AI-powered features within a Web2 and Web3 system, or integrating Web3 identity with Web2 applications, etc.). [Hands-on Experiences] Managing Development Pipelines (SDLC) Experience designing, implementing, and maintaining end-to-end pipelines Tools you’ve used (e.g., GitHub Actions, Jenkins, GitLab CI/CD) How you’ve handled testing, code quality, release cycles, and rollback strategies Code Organization & Separation of Concerns How you structured applications by separating business logic from I/O logic (e.g., controllers, services, repositories) Use of design principles such as SOLID, Clean Architecture, or Domain-Driven Design (DDD) Examples of how this approach improved maintainability, testing, or scaling System Architecture & Design Designing scalable, maintainable systems (microservices, monoliths, or hybrid) Familiarity with design patterns (e.g., Factory, Singleton, Observer, CQRS, Event Sourcing) Trade-offs you’ve considered when choosing architectures or patterns Real examples of how your designs improved performance, resilience, or cost efficiency Overall, you should be ready to discuss both technical depth (hands-on implementation) and strategic thinking (design choices, trade-offs, scaling, maintainability).
+
+web2 + web 3 integration
+
+Frontend (Next.js)  
+↓  
+Backend (NestJS)  
+↓  
+Blockchain node  
+↓  
+AI service  
+↓  
+Database
+
+
+
+User connects wallet  
+↓  
+Frontend asks user to sign message  
+↓  
+Backend verifies signature  
+↓  
+Backend creates session / JWT
+
+
+
+Modern platforms often combine Web2 infrastructure with Web3 blockchain integrations and AI-powered features. Web2 services handle APIs, data storage, and business logic. Web3 components manage decentralized assets or identities through smart contracts. AI services can analyze user behavior, automate workflows, or enhance decision-making. The backend usually acts as the bridge connecting these systems.”

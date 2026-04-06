@@ -111,44 +111,7 @@ If time is short → ask **“What does success look like in 6 months?”**
 
 
 
-Reason for leaving:
 
-## **Manuva — VP Product & Technology**
-
-**Reason for leaving:**  
-Left due to uncertainty around the company’s long-term business strategy and future direction, and to seek an environment with clearer vision and sustainable growth plans.
-
-
-## **Finantier — Head of Product**
-
-**Reason for leaving:**  
-Left as the open banking initiative was introduced ahead of Indonesia’s regulatory and ecosystem readiness, making full implementation challenging at that time.
-
----
-
-## **RedDoorz — Head of Product**
-
-**Reason for leaving:**  
-Left to pursue a promising opportunity in fintech focused on open banking, which aligned with my interest in emerging financial technology and long-term career growth.
-
----
-
-## **Payfazz — Head of Product**
-
-**Reason for leaving:**  
-Left due to business contraction during the COVID-19 pandemic, which led to team downsizing, declining GMV, and the suspension of several product initiatives.
-
----
-
-## **Do-Cart — CTO & Co-Founder**
-
-**Reason for leaving:**  
-As a co-founder and CTO, stepped down after the company was unable to secure the next funding round and subsequently decided to wind down operations.
-
-
-## **One-sentence career narrative (optional but powerful)**
-
-> My career reflects a progression through scaling startups and platform businesses, navigating regulatory timing, market shifts, and external shocks such as COVID-19, while consistently focusing on building sustainable, high-impact products.
 
 
 
