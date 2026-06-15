@@ -33,3 +33,74 @@ cat C:\Users\Seaside\.ssh\id_ed25519.pub
 
 
 curl -v "https://api-datahub-nonprod-api-dev.azurewebsites.net/v2/data-npo/cards?year=2025"
+
+mac:
+git clone git@catalyze-git:catalyzecommunications/katingan-project-revamp.git
+
+test connection
+ssh -T catalyze-git
+
+
+# What you must do
+
+Create **a new SSH key for this repo**.
+
+### 1️⃣ Generate new key
+
+Run:
+
+ssh-keygen -t ed25519 -C "giswebapi" -f ~/.ssh/id_giswebapi
+
+You will get:
+
+~/.ssh/id_giswebapi  
+~/.ssh/id_giswebapi.pub
+
+---
+
+### 2️⃣ Copy the public key
+
+cat ~/.ssh/id_giswebapi.pub
+
+Copy the whole line.
+
+---
+
+### 3️⃣ Add deploy key to the repo
+
+Go to:
+
+GISWebAPI  
+Settings → Deploy Keys
+
+Click **Add deploy key**
+
+Paste the key.
+
+Enable:
+
+Allow write access
+
+(if you need push)
+
+---
+
+### 4️⃣ Add SSH config entry
+
+Edit:
+
+~/.ssh/config
+
+Add:
+
+Host giswebapi  
+  HostName github.com  
+  User git  
+  IdentityFile ~/.ssh/id_giswebapi  
+  IdentitiesOnly yes
+
+---
+
+### 5️⃣ Clone using alias
+
+git clone git@giswebapi:wwfinternational/GISWebAPI.git

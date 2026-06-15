@@ -2,6 +2,10 @@
 
 livewire update, katinganmentanya.com, 
 
+```
+ssh root@128.199.157.158
+```
+
 ![[Pasted image 20260326112906.png]]
 
 ![[Pasted image 20260326112922.png]]
@@ -62,3 +66,188 @@ Fix: delete those two files (and/or run `artisan up`). After that, bare `curl
 If `maintenance.php` / `down` ever come back, the same “Maintenance” behaviour can return — usually someone ran `php artisan down` or a deploy script left files behind. `php artisan up` and clearing those files fixes it.
 
 I can also add a one-line note to your internal runbook (what to run after deploy: copy Livewire assets, don’t leave `down` on production) if you want that written down for the team.
+
+
+ malware attack
+### Livewire incident summary
+
+#### Initial symptom
+
+Button:
+
+```
+wire:click="getCtaPopup()"
+```
+
+did nothing.
+
+Browser console showed:
+
+```
+Unexpected token '<'
+```
+
+This means:
+
+- Livewire expected JSON response
+- but server returned HTML instead
+
+---
+
+### Investigation steps
+
+#### 1. Checked Livewire itself
+
+We confirmed:
+
+- `window.Livewire` exists
+- `livewire.js` loaded
+- routes existed:
+    
+    ```
+    POST livewire/update
+    ```
+    
+
+So Livewire installation itself was okay.
+
+---
+
+#### 2. Tested component manually
+
+You ran:
+
+```
+Livewire.find(...).call('getCtaPopup')
+```
+
+Still failed.
+
+Meaning:
+
+- frontend click not main issue
+- backend response broken
+
+---
+
+### 3. Found Laravel exception
+
+Logs showed:
+
+```
+Invalid characters present in locale
+```
+
+Cause:
+
+```
+App::setLocale($lang);
+```
+
+received malicious/invalid value like:
+
+```
+../../../../../...
+```
+
+This broke Laravel translation system.
+
+---
+
+### 4. Found injected HTML spam in Livewire response
+
+`curl` response showed:
+
+```
+<!-- This Commentary for 65k BangSLEY --><p><a href="https://www.mpvumbria.org/">slot88</a></p><p><a href="https://www.elacta.eu/">toto slot 4d</a></p>
+```
+
+Meaning:
+
+- response was infected/injected
+- not normal Laravel behavior
+- likely leftover malware/backdoor from previous compromise
+
+---
+
+### 5. Why Livewire broke
+
+Flow:
+
+```
+Livewire request→ Laravel exception→ error HTML page generated→ injected gambling HTML added→ response no longer valid JSON→ browser JSON.parse failed→ popup/button broken
+```
+
+That is why:
+
+```
+Unexpected token '<'
+```
+
+appeared.
+
+The `<` was from returned HTML.
+
+---
+
+### 6. Fixes applied
+
+#### A. Locale validation hardening
+
+We changed:
+
+```
+App::setLocale($lang);
+```
+
+into:
+
+```
+if (! in_array($lang, ['en', 'id'], true)) {    $lang = 'en';}App::setLocale($lang);
+```
+
+Purpose:
+
+- prevent invalid locale injection
+- prevent Laravel exception
+- harden Livewire endpoint
+
+---
+
+#### B. Clean redeploy
+
+We:
+
+- rotated runner
+- changed passwords
+- removed infected deployment
+- redeployed fresh from GitLab
+
+Then restored:
+
+- composer vendor
+- npm modules
+- storage symlink
+- user uploaded files
+
+---
+
+### 7. Final root cause
+
+Two issues combined:
+
+#### Real bug
+
+Locale validation missing.
+
+#### Security compromise
+
+Injected HTML/gambling spam still existed in deployed environment.
+
+Together they broke Livewire JSON responses.
+
+
+
+
+
+

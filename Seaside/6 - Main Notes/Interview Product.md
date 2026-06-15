@@ -3,13 +3,13 @@
 
 Hi, I’m Said. Over the last several years I’ve been leading product and technology teams, focusing on how technology can improve operational efficiency and unlock monetization in complex ecosystems.
 
+
+
+The main challenge was handling fragmented data across different stakeholders and ensuring the system remained reliable and consistent, especially during peak order processing.”
+
 ==start here==
 Currently I’m the **VP of Product and Technology at Manuva**, where I lead product strategy and engineering execution. 
 
-
-*“Product strategy refers to defining the product vision, identifying key user problems, prioritizing the most impactful opportunities, and aligning product development with business goals to drive growth.”*
-
-*“It usually includes defining the target users, key value proposition, and the roadmap to achieve business outcomes.”*
 
 
 skip: After some organizational efficiency adjustments, my team currently consists of **3 Product Managers, 5 Backend Engineers, 2 Frontend Engineers, 1 Data Analyst, and 1 UI/UX Designer**.
@@ -17,7 +17,16 @@ skip: After some organizational efficiency adjustments, my team currently consis
 Manuva operates as a **B2B manufacturing and distribution platform**, where our goal is to help manufacturers increase **capacity utilization and distribution reach**. 
 
 
-We connect manufacturers directly with retailers and B2B buyers, offering both **custom-made products and ready-made goods**. In addition to distribution, we also help manufacturers access **supply chain financing through third-party partners**, allowing them to scale production and manage working capital more effectively. kita jg pnya finished goods product.  ==sampe sini aja dl==
+We connect manufacturers directly with retailers and B2B buyers, offering both **custom-made products and ready-made goods**. In addition to distribution, we also help manufacturers access **supply chain financing through third-party partners**, allowing them to scale production and manage working capital more effectively. kita jg pnya finished goods product.  
+
+my day to day activity I found that I was spending a significant amount of time helping teams improve delivery flow, resolve blockers, align expectations, and make trade-offs explicit. That part of the work is where I saw the most immediate impact.
+
+
+%% However, as market conditions became more challenging and fundraising slowed, the company shifted its focus toward managing runway and asset restructuring. During this period, compensation was adjusted, and the company is currently in the process of selling its assets.
+
+Given this situation, I’m now looking to return to a stable salaried role. At the same time, this transition gave me clarity on where I create the most impact—particularly in delivery excellence, helping teams execute effectively, and navigating complexity. That’s why I’m intentionally exploring roles where I can focus on enabling strong execution and predictable outcomes.
+ %%
+==sampe sini aja dl==
 
 From a product perspective, one of my key focuses has been **supplier monetization and marketplace balance**. For example, we implemented supplier ranking logic where visibility was influenced by both **commission contribution and supplier performance**, similar to a _bid × quality_ model. My responsibility was ensuring that monetization growth did not compromise buyer trust or conversion. That meant constantly balancing **revenue density, supply quality, and demand experience**, which is a common challenge in marketplace platforms.
 

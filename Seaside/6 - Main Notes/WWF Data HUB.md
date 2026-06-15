@@ -6,11 +6,21 @@ https://datahub.staging.catalyze.id/
 
 https://datahub.staging.catalyze.id/?bypass=true
 
-threads/new-update-yang-doyan-mahasiswi-silahkan-masuk-update-selalu.1565009/page-89#post-1913683722
+
+cms.data.panda.org
+
+[admin@catalyze.id](mailto:admin@catalyze.id) secret1234 atau secret1234!
 
 cms:
 admin@catalyze.id 
 secret1234
+
+arcgis api, jlnin di local
+docker compose -f docker-compose.dev.yml up arcgis -d --build
+
+trs cek
+curl http://localhost:8000/health
+
 
 (Invoke-WebRequest -Uri "https://api.ipify.org").Content  
 Test-NetConnection 172.205.217.96 -Port 27017 
@@ -71,28 +81,6 @@ using email
 test directly
 
 curl https://datahub-api.staging.catalyze.id/v2/partials/navigation
-
-
-
-## 🎯 The Problem:
-
-The non-working domain is trying to fetch images from:
-
-https://api-datahub-nonprod-api-dev.azurewebsites.net/files/...
-
-But this URL is likely:
-
-1. Not accessible from the frontend server
-
-2. Requires authentication
-
-3. Has CORS restrictions
-
-4. Returns 404 or other errors
-
-test the api directly
-
-curl https://api-datahub-nonprod-api-dev.azurewebsites.net/files/WWF%20NETWORK%20DATAHUB_staging%2Fbanner-homepage-4-1760588597956.jpg
 
 
 
